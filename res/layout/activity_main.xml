@@ -65,7 +65,7 @@
         android:text="@string/help" />
 
     <Button
-        android:id="@+id/button_exitbutton_exit"
+        android:id="@+id/button_exit"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/button_help"

@@ -1,5 +1,4 @@
 package com.game.crazyhighbird;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +6,8 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-public class GameActivity extends Activity{
+
+public class SettingActivity extends Activity {
 	private TextView tv;
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

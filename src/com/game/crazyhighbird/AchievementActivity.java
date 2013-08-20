@@ -7,7 +7,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-public class GameActivity extends Activity{
+public class AchievementActivity extends Activity {
 	private TextView tv;
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

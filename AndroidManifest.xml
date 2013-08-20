@@ -23,6 +23,26 @@
             </intent-filter>
             <intent-filter android:label="@string/action_settings"></intent-filter>
         </activity>
+        <activity
+            android:name="com.game.crazyhighbird.GameActivity"
+            android:label="@string/app_name" >       
+        </activity>
+        <activity
+            android:name="com.game.crazyhighbird.ShopActivity"
+            android:label="@string/app_name" >       
+        </activity>
+        <activity
+            android:name="com.game.crazyhighbird.AchievemntActivity"
+            android:label="@string/app_name" >       
+        </activity>
+        <activity
+            android:name="com.game.crazyhighbird.SettingActivity"
+            android:label="@string/app_name" >       
+        </activity>
+        <activity
+            android:name="com.game.crazyhighbird.HelpActivity"
+            android:label="@string/app_name" >       
+        </activity>
     </application>
 
 </manifest>
