@@ -32,7 +32,7 @@
             android:label="@string/app_name" >       
         </activity>
         <activity
-            android:name="com.game.crazyhighbird.AchievemntActivity"
+            android:name="com.game.crazyhighbird.AchievementActivity"
             android:label="@string/app_name" >       
         </activity>
         <activity
